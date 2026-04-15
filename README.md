@@ -130,7 +130,8 @@ rag_chatbot/
 
 ---
 
-## 👥 Team
+## 👤 Developer
 
-- Team Size: 3 students
-- Subject: IT315E — Generative AI Foundation and Applications
+**Ayan Khan**  
+
+*Independently developed for the IT315E Hackathon, focusing on practical applications of Generative AI.*
